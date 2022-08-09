@@ -1,4 +1,4 @@
-from Gnadu import Var
+from gandu import Var
 import logging
 import re
 import os
